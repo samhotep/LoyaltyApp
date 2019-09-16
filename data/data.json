@@ -1,0 +1,20 @@
+{
+	"data": {
+		"p1": {
+			"key": 1,
+			"image": '../images/card_sample.jpg',
+			"date": 'June 2019',
+			"day": 'Wednesday 6',
+			"name": 'Books',
+			"points": '12'
+		},
+		"p2": {
+			"key": 2,
+			"image": '../images/card_sample.jpg',
+			"date": 'July 2019',
+			"day": 'Tuesday 5',
+			"name": 'Shoes',
+			"points": '10'
+		}
+	}
+}
